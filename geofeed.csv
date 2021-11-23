@@ -1,2 +1,4 @@
 # ip_prefix,alpha2code,region,city,postal_code
-
+77.120.96.0/19,UA,UA-30,Kyiv,03134
+77.123.128.0/19,UA,UA-30,Kyiv,03134
+82.144.220.0/22,UA,UA-30,Kyiv,03134
