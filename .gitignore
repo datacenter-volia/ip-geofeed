@@ -1,0 +1,23 @@
+### Common
+*.log
+*.bak
+*.orig
+
+### OS-specific
+*~
+*.swp
+.directory
+[Td]humbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+
+### Tool-specific
+
+# LibreOffice
+.~lock.*#
+
+# VSCode
+.vscode/*
+*.code-workspace
